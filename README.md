@@ -1,6 +1,9 @@
-A Much Better Company Website title
+We need to come up with a better title
 
-TODO:
 
-- Make the website
-- Publish the website
+Project Description:
+
+- Simple company website
+- Home page, about page, contact page
+- Bootstrap required
+- Javascript not necessarily required
